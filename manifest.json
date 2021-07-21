@@ -21,9 +21,6 @@
         "name": "liberodark",
         "email": "liberodark@gmail.com"
     },
-    "requirements": {
-        "yunohost": ">= 4.2.4"
-    },
     "multi_instance": true,
     "services": [
         "nginx",
